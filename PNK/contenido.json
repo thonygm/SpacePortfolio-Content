@@ -25,9 +25,14 @@
             "tipo": "texto",
             "contenido": "Plataformas: Windows y Android"
         },
-        {
+                {
             "tipo": "texto",
             "contenido": "Estado: Demo jugable"
+        },
+        {
+            "tipo": "video",
+            "titulo": "Tráiler oficial",
+            "youtube_id": "GmM6kuwFmQ8"
         }
     ]
 }
