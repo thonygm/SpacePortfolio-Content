@@ -2,28 +2,8 @@
     "proyecto": "Panik N Ketchup",
     "secciones": [
         {
-            "tipo": "texto",
-            "contenido": "Panik N Ketchup es un videojuego de acción y plataformas en 2D, protagonizado por un grupo de personajes inspirados en la comida rápida."
-        },
-        {
-            "tipo": "texto",
-            "contenido": "PRUEBA DE DESPLAZAMIENTO 1. Este párrafo es temporal y nos permitirá comprobar que el contenido puede continuar más allá del espacio visible del holograma."
-        },
-        {
-            "tipo": "texto",
-            "contenido": "PRUEBA DE DESPLAZAMIENTO 2. Al utilizar la rueda del mouse, los párrafos deberían desplazarse verticalmente sin invadir las líneas luminosas del marco holográfico."
-        },
-        {
-            "tipo": "texto",
-            "contenido": "PRUEBA DE DESPLAZAMIENTO 3. También necesitamos comprobar que el título del proyecto permanece fijo mientras el resto de la información se mueve."
-        },
-        {
-            "tipo": "texto",
-            "contenido": "PRUEBA DE DESPLAZAMIENTO 4. Cuando lleguemos al final del contenido, la rueda del mouse no debería permitir seguir bajando indefinidamente."
-        },
-        {
-            "tipo": "texto",
-            "contenido": "FINAL DEL CONTENIDO DE PRUEBA. Este es el último párrafo y servirá como referencia para comprobar el límite inferior del desplazamiento."
-        }
+    "tipo": "imagen",
+    "archivo": "PNK/PNK_Portada.png"
+}
     ]
 }
