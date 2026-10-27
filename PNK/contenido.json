@@ -1,4 +1,9 @@
 {
     "proyecto": "Panik N Ketchup",
-    "secciones": []
+    "secciones": [
+        {
+            "tipo": "texto",
+            "contenido": "Panik N Ketchup es un videojuego de acción y plataformas en 2D, protagonizado por un grupo de personajes inspirados en la comida rápida."
+        }
+    ]
 }
