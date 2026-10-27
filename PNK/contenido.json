@@ -2,8 +2,40 @@
     "proyecto": "Panik N Ketchup",
     "secciones": [
         {
-    "tipo": "imagen",
-    "archivo": "PNK/PNK_Portada.png"
-}
+            "tipo": "imagen",
+            "archivo": "PNK/PNK_Portada.png"
+        },
+        {
+            "tipo": "texto",
+            "contenido": "¡Cinco carriles, clientes exigentes y una cocina al borde del desastre!"
+        },
+        {
+            "tipo": "texto",
+            "contenido": "Panik N' Ketchup es un videojuego arcade de preparación de hamburguesas que combina memoria, velocidad y precisión."
+        },
+        {
+            "tipo": "texto",
+            "contenido": "El jugador debe recordar pedidos, seleccionar los ingredientes correctos y preparar cada hamburguesa antes de que se agote el tiempo. A medida que la cocina se llena de órdenes y clientes con gustos particulares, mantener el control se convierte en un desafío cada vez mayor."
+        },
+        {
+            "tipo": "texto",
+            "contenido": "Con una identidad visual llamativa, personajes con personalidad propia y sistemas de progresión que recompensan el buen desempeño, Panik N' Ketchup transforma una cocina caótica en una experiencia arcade dinámica y llena de presión."
+        },
+        {
+            "tipo": "texto",
+            "contenido": "Género: Arcade / Gestión del tiempo / Memoria"
+        },
+        {
+            "tipo": "texto",
+            "contenido": "Motor: Unreal Engine 5"
+        },
+        {
+            "tipo": "texto",
+            "contenido": "Plataformas: Windows y Android"
+        },
+        {
+            "tipo": "texto",
+            "contenido": "Estado: Demo jugable"
+        }
     ]
 }
