@@ -39,8 +39,13 @@
       "contenido": "ARTE Y PROCESO VISUAL"
     },
     {
+    {
       "tipo": "texto",
       "contenido": "Personajes, ingredientes e interfaces creados mediante ilustración vectorial por piezas, desde el dibujo inicial hasta el color, la animación y su integración en Unreal Engine."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "PNK/pnk_arte.png"
     }
   ]
 }
