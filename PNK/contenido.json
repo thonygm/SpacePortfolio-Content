@@ -31,8 +31,16 @@
         },
         {
             "tipo": "video",
-            "titulo": "Tráiler oficial",
-            "url": "https://vimeo.com/1240065996"
-        }
-    ]
+      "titulo": "Tráiler oficial",
+      "url": "https://vimeo.com/1240065996"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ARTE Y PROCESO VISUAL"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Personajes, ingredientes e interfaces creados mediante ilustración vectorial por piezas, desde el dibujo inicial hasta el color, la animación y su integración en Unreal Engine."
+    }
+  ]
 }
