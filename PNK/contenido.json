@@ -45,6 +45,18 @@
     {
       "tipo": "imagen",
       "archivo": "PNK/pnk_arte.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DESARROLLO TÉCNICO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Desarrollado en Unreal Engine 5 mediante Blueprints, con sistemas de pedidos, ingredientes, validación, temporizadores y potenciadores. Incluye economía, progresión y fidelización de clientes, con recompensas que evolucionan durante la partida."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "PNK/pnk_gameplay.png"
     }
   ]
 }
