@@ -57,6 +57,19 @@
     {
       "tipo": "imagen",
       "archivo": "PNK/pnk_gameplay.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "JUEGA PANIK N' KETCHUP"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "¡Pon a prueba tu memoria y velocidad! Descarga la demo para Windows y Android."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "PNK/pnk_itchio.png",
+      "url": "https://thonygm.itch.io/panik-n-ketchup"
     }
   ]
 }
