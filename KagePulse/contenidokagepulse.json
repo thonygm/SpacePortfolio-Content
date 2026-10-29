@@ -18,6 +18,48 @@
       "tipo": "texto",
       "contenido": "Género: Exploración, sigilo y puzles. Motor: Unity. Programación: Visual Scripting. Perspectiva: Top-down 3D. Dirección artística: Meiji Steampunk con influencia sintoísta. Estado: Prototipo funcional (Graybox)."
     }
+    
+{
+  "tipo": "texto",
+  "contenido": "MODELOS 3D"
+},
+{
+  "tipo": "texto",
+  "contenido": "ANCLA - Máquina de vigilancia que patrulla el escenario y puede realizar embestidas eléctricas contra el jugador."
+},
+{
+  "tipo": "imagen",
+  "archivo": "KagePulse/ancla.png"
+},
+{
+  "tipo": "imagen",
+  "archivo": "KagePulse/anclawhite.png"
+},
+{
+  "tipo": "texto",
+  "contenido": "PREGONERO - Autómata flotante que alerta de la presencia del jugador mediante su campana, activando amenazas más peligrosas."
+},
+{
+  "tipo": "imagen",
+  "archivo": "KagePulse/pregonero.png"
+},
+{
+  "tipo": "imagen",
+  "archivo": "KagePulse/pregonerowhite.png"
+},
+{
+  "tipo": "texto",
+  "contenido": "PEM CHARGER - Dispositivo de recarga de energía PEM, diseñado con una combinación de maquinaria industrial y elementos de inspiración japonesa."
+},
+{
+  "tipo": "imagen",
+  "archivo": "KagePulse/pemcharger.png"
+},
+{
+  "tipo": "imagen",
+  "archivo": "KagePulse/pemchargerwhite.png"
+}
+
   ]
 }
 
