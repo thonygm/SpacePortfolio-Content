@@ -14,10 +14,32 @@
       "tipo": "texto",
       "contenido": "FICHA TÉCNICA"
     },
-    {
-      "tipo": "texto",
-      "contenido": "Género: Exploración, sigilo y puzles. Motor: Unity. Programación: Visual Scripting. Perspectiva: Top-down 3D. Dirección artística: Meiji Steampunk con influencia sintoísta. Estado: Prototipo funcional (Graybox)."
-    }
+
+{
+  "tipo": "texto",
+  "contenido": "Género: Exploración, sigilo y puzles"
+},
+{
+  "tipo": "texto",
+  "contenido": "Motor: Unity 6"
+},
+{
+  "tipo": "texto",
+  "contenido": "Programación: Visual Scripting"
+},
+{
+  "tipo": "texto",
+  "contenido": "Perspectiva: Top-down 3D"
+},
+{
+  "tipo": "texto",
+  "contenido": "Dirección artística: Meiji Steampunk con influencia sintoísta"
+},
+{
+  "tipo": "texto",
+  "contenido": "Estado: Prototipo funcional (Graybox)"
+}
+
     
 {
   "tipo": "texto",
