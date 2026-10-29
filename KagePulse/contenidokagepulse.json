@@ -1,1 +1,23 @@
 
+{
+  "titulo": "Kage Pulse",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "KagePulse/Kagepulse_Portada.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Kage Pulse es un videojuego de exploración, sigilo y puzles ambientado en un mundo donde la maquinaria steampunk y las entidades espirituales conviven. El jugador debe recorrer escenarios peligrosos, evitar máquinas poseídas y utilizar la luz y la energía PEM para sobrevivir."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Género: Exploración, sigilo y puzles. Motor: Unity. Programación: Visual Scripting. Perspectiva: Top-down 3D. Dirección artística: Meiji Steampunk con influencia sintoísta. Estado: Prototipo funcional (Graybox)."
+    }
+  ]
+}
+
