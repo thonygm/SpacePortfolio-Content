@@ -105,6 +105,40 @@
     {
       "tipo": "imagen",
       "archivo": "KagePulse/parasitoconcept.png"
-    }    
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ORÍGENES E INSPIRACIONES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Kage Pulse toma como referencias dos clásicos de la exploración: Advanced Dungeons & Dragons: Cloudy Mountain (Intellivision) y Haunted House (Atari 2600). Del primero recupera la aventura en escenarios desconocidos y la presencia constante de peligros; del segundo, la vulnerabilidad del protagonista y la importancia de explorar evitando amenazas."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DIRECCIÓN ARTÍSTICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La identidad visual de Kage Pulse se construye alrededor del Meiji Steampunk, combinando maquinaria industrial con arquitectura y elementos tradicionales japoneses. La influencia sintoísta aparece en los espacios ceremoniales, los espíritus y las máquinas poseídas, creando un contraste entre tecnología y espiritualidad."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ADVANCED DUNGEONS & DRAGONS: CLOUDY MOUNTAIN (1982)"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "KagePulse/cloudy.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "HAUNTED HOUSE (1982)"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "KagePulse/haunted.png"
+    }
+    
+        
   ]
 }
