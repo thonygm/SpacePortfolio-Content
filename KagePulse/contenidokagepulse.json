@@ -137,8 +137,19 @@
     {
       "tipo": "imagen",
       "archivo": "KagePulse/haunted.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ESTADO ACTUAL DEL DESARROLLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Kage Pulse se encuentra en fase de prototipado funcional (graybox), desarrollado en Unity mediante Visual Scripting. El video presenta el estado actual del proyecto, mostrando los primeros sistemas de exploración, movimiento e interacción y las bases de las mecánicas de sigilo."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "KagePulse/kagepulse_video.png",
+      "url": "https://vimeo.com/1240947078"
     }
-    
-        
   ]
 }
