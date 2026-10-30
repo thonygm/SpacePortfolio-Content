@@ -77,6 +77,34 @@
     {
       "tipo": "imagen",
       "archivo": "KagePulse/pemchargerwhite.png"
-    }
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PERSONAJES Y ENEMIGOS EN DESARROLLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "REN — Protagonista de Kage Pulse. Su diseño combina elementos de inspiración japonesa con una estética steampunk. A diferencia de los enemigos, Ren no utiliza combate directo: debe recurrir al sigilo, la exploración y la energía PEM para sobrevivir."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "KagePulse/renconcept.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "STALKER — Una de las principales amenazas del juego. Esta máquina flotante persigue al jugador cuando es alertada por el Pregonero, convirtiéndose en un peligro que Ren debe evitar."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "KagePulse/stalkerconcept.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PARÁSITO — Máquina diseñada para consumir energía PEM. Su presencia introduce un desafío de administración de recursos: una vez alimentado, entra en un período de inactividad que el jugador puede aprovechar."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "KagePulse/parasitoconcept.png"
+    }    
   ]
 }
