@@ -62,6 +62,48 @@
       "tipo": "enlace",
       "archivo": "WashiSamurai/washi_movimiento.png",
       "url": "https://vimeo.com/1241511133"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "COMBATE"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El sistema de combate de Washi Samurai combina ataques cuerpo a cuerpo y armas arrojadizas creadas mediante plegado. Kiri puede utilizar distintas herramientas ofensivas, encadenar golpes y adaptar su estilo de lucha a cada situación, integrando el combate directamente con la mecánica central del origami."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "WashiSamurai/washi_combate.png",
+      "url": "https://vimeo.com/1241510674"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ENEMIGOS Y COMPORTAMIENTOS"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Los enemigos de Washi Samurai cuentan con comportamientos específicos desarrollados mediante Blueprints. Entre ellos se encuentran PaperBall, una criatura que patrulla y realiza ataques giratorios, y Kami Archer, un enemigo de vigilancia que utiliza proyectiles para atacar desde distintas posiciones. Sus mecánicas combinan detección, patrones de ataque y respuestas al entorno."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "WashiSamurai/washi_enemigos.png",
+      "url": "https://vimeo.com/1241511134"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "SISTEMA DE PLEGADO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El origami constituye la mecánica central de Washi Samurai. Mediante combinaciones de direcciones, el jugador puede transformar hojas de papel en armas, herramientas y otros elementos que amplían las posibilidades de combate y exploración."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Al iniciar el plegado, el tiempo se ralentiza y Kiri debe ejecutar una secuencia de movimientos para dar forma al objeto deseado. La precisión de la combinación determina la calidad del resultado, introduciendo un componente de habilidad y estrategia en la creación de recursos."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Este sistema, desarrollado íntegramente mediante Blueprints, busca integrar el arte del plegado directamente en las mecánicas del juego."
     }
   ]
 }
