@@ -52,10 +52,6 @@
     },
     {
       "tipo": "texto",
-      "contenido": "Estado: Prototipo funcional (Graybox)"
-    },
-    {
-      "tipo": "texto",
       "contenido": "MOVIMIENTO Y EXPLORACIÓN"
     },
     {
@@ -69,9 +65,3 @@
     }
   ]
 }
-
-
-    
-  ]
-}
-
