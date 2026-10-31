@@ -1,1 +1,55 @@
 
+{
+  "titulo": "Washi Samurai",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "WashiSamurai/WashiSamurai_Portada.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Washi Samurai es un metroidvania de acción y aventura en 2.5D, desarrollado en Unreal Engine 5, cuya mecánica principal gira en torno al arte del origami."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El jugador controla a Kiri, un ser de papel que debe explorar un mundo inspirado en la estética del papel washi, la tinta y la acuarela. Mediante secuencias de plegado, puede crear armas, herramientas y otros elementos que le permiten superar obstáculos y enfrentarse a sus enemigos."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Género: Metroidvania / Acción y aventura"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unreal Engine 5"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Programación: Blueprints"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Perspectiva: 2.5D / Cámara lateral"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Mecánica principal: Creación de objetos mediante origami"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Dirección artística: Papel washi, tinta y acuarela"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Inspiración visual: Kubo y las dos cuerdas mágicas"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estado: Prototipo funcional (Graybox)"
+    }
+  ]
+}
+
