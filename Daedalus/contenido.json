@@ -1,0 +1,62 @@
+
+{
+  "titulo": "Daedalus: Arcane Odyssey",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Daedalus/daedalus_portada.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Daedalus: Arcane Odyssey es un videojuego de acción y aventura en tercera persona, ambientado en un universo original de fantasía que combina exploración, combate en tiempo real y elementos de RPG."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El jugador deberá recorrer diferentes escenarios, descubrir secretos, superar desafíos e interactuar con un mundo habitado por personajes y criaturas que forman parte de una historia propia."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Su desarrollo integra diseño de mecánicas, programación mediante Blueprints, creación de personajes y entornos tridimensionales, animación y narrativa cinematográfica, reuniendo diferentes disciplinas en un proyecto de desarrollo independiente."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Género: Acción y aventura / Fantasía / Elementos RPG"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unreal Engine 5"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Programación: Blueprints"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Perspectiva: Tercera persona 3D"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Jugabilidad: Exploración, combate en tiempo real e interacción con el entorno"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Desarrollo: Independiente"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Áreas de trabajo: Game Design, Gameplay Systems, modelado 3D, animación y cinemáticas"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Herramientas: Unreal Engine, Blender, Character Creator e iClone"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estado: Prototipo funcional / En desarrollo"
+    }
+  ]
+}
