@@ -49,7 +49,29 @@
     {
       "tipo": "texto",
       "contenido": "Estado: Prototipo funcional (Graybox)"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estado: Prototipo funcional (Graybox)"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "MOVIMIENTO Y EXPLORACIÓN"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El sistema de movimiento de Washi Samurai está diseñado para ofrecer un control fluido y preciso en entornos de plataformas 2.5D. Kiri puede caminar, correr, saltar con altura variable, agacharse, rodar y agarrarse a cornisas para superar obstáculos. El sistema incorpora aceleración, inercia y transiciones de animación, desarrolladas mediante Blueprints en Unreal Engine 5."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "WashiSamurai/washi_movimiento.png",
+      "url": "https://vimeo.com/1241511133"
     }
+  ]
+}
+
+
+    
   ]
 }
 
