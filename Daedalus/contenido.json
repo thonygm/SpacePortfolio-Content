@@ -4,7 +4,7 @@
   "secciones": [
     {
       "tipo": "imagen",
-      "archivo": "Daedalus/Daedalus_Portada.png"
+      "archivo": "Daedalus/daedalus_portada.png"
     },
     {
       "tipo": "texto",
@@ -57,6 +57,26 @@
     {
       "tipo": "texto",
       "contenido": "Estado: Prototipo funcional / En desarrollo"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DIRECCIÓN ARTÍSTICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La habitación de Daedalus sirvió como punto de partida para establecer la dirección artística del proyecto, definiendo una estética 3D estilizada que combina elementos de fantasía y tecnología steampunk."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "A través del diseño de este escenario se exploraron las proporciones, los materiales, la iluminación y una paleta cromática basada en el contraste entre tonos cálidos y fríos. Estas decisiones permitieron establecer una identidad visual coherente que sirve como referencia para el desarrollo de personajes, objetos y futuros escenarios."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Más que un espacio jugable, esta habitación representa las primeras decisiones artísticas que dieron forma al universo visual de Daedalus: Arcane Odyssey."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Daedalus/daedalus.jpg"
     }
   ]
 }
