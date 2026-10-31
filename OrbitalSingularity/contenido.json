@@ -55,10 +55,6 @@
       "contenido": "Estado: Prototipo jugable"
     },
     {
-      "tipo": "texto",
-      "contenido": "CAPTURA DEL PROTOTIPO"
-    },
-    {
       "tipo": "imagen",
       "archivo": "OrbitalSingularity/orbital_captura.png"
     },
@@ -95,6 +91,22 @@
       "tipo": "enlace",
       "archivo": "OrbitalSingularity/orbital_gameplay.png",
       "url": "https://vimeo.com/1241582650"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DISEÑO Y DESARROLLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Orbital Singularity representa un ejercicio de diseño de mecánicas, programación visual y desarrollo de sistemas de gameplay en Unreal Engine 5."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Desde la construcción de sus órbitas y las mecánicas de navegación hasta la gestión de obstáculos, combate, efectos visuales e interfaz, el proyecto ha evolucionado mediante un proceso de prototipado, experimentación e iteración constante."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El resultado es una experiencia arcade que combina una estructura de juego poco convencional con sistemas técnicos desarrollados mediante Blueprints."
     }
   ]
 }
