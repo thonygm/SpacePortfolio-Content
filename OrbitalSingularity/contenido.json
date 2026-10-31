@@ -1,1 +1,93 @@
 
+{
+  "titulo": "Orbital Singularity",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "OrbitalSingularity/Orbitalsingularity_Portada.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Orbital Singularity es un videojuego arcade de acción espacial desarrollado en Unreal Engine 5, ambientado alrededor de un gigantesco agujero negro. Su propuesta combina reflejos, precisión y supervivencia en un escenario donde el peligro puede aparecer desde cualquier dirección."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El jugador controla una nave que debe desplazarse entre cinco carriles orbitales concéntricos, esquivar y destruir asteroides, y recuperar cinco componentes necesarios para completar su misión. La estructura circular del escenario transforma el desplazamiento tradicional en una experiencia basada en órbitas, cambios de carril y decisiones rápidas."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Género: Arcade espacial / Acción"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unreal Engine 5"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Programación: Blueprints"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Perspectiva: Cámara lateral orbital"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Mecánica principal: Desplazamiento entre cinco órbitas concéntricas"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Sistemas: Combate espacial, generación de asteroides, coleccionables y gestión de recursos"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Efectos visuales: Niagara y materiales dinámicos"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Dirección artística: Ciencia ficción espacial con influencia de las portadas clásicas de Intellivision"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estado: Prototipo jugable"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "EVOLUCIÓN DEL DESARROLLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Orbital Singularity comenzó como un prototipo de mecánicas orbitales construido en graybox. El desafío principal consistió en desarrollar un sistema en el que el escenario gira alrededor de un agujero negro, mientras la nave permanece en una posición de referencia y cambia entre carriles concéntricos."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "A partir de esa base se incorporaron los sistemas de combate, generación y reposición de asteroides, recolección de componentes, efectos visuales y elementos de interfaz. El siguiente video muestra la evolución del proyecto, desde sus primeras pruebas funcionales hasta su presentación actual."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "OrbitalSingularity/orbital_desarrollo.png",
+      "url": "https://vimeo.com/1241582649"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "GAMEPLAY Y SISTEMAS"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El gameplay combina navegación orbital, esquiva de obstáculos y combate contra asteroides. El jugador puede cambiar entre cinco carriles, invertir la orientación de la nave y utilizar sus armas mientras administra su supervivencia y busca los componentes necesarios para completar la partida."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Entre sus sistemas técnicos destacan la reutilización de proyectiles mediante pooling, la gestión de asteroides mediante posiciones de aparición, los efectos de explosión con Niagara y una interfaz que proporciona información sobre el estado de la nave. Todos estos sistemas han sido desarrollados mediante Blueprints."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "OrbitalSingularity/orbital_gameplay.png",
+      "url": "https://vimeo.com/1241582650"
+    }
+  ]
+}
+
