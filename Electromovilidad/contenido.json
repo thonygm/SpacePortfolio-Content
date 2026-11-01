@@ -1,1 +1,104 @@
 
+{
+  "titulo": "Curso Interactivo de Electromovilidad",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Electromovilidad/electromovilidad_portada.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El Curso Interactivo de Electromovilidad es una experiencia educativa tridimensional diseñada para enseñar los principios básicos del ensamblaje de un vehículo eléctrico mediante ejercicios prácticos."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El usuario debe seleccionar los diferentes componentes del vehículo, identificar el orden correcto de instalación y colocarlos en sus respectivas posiciones, aprendiendo de manera interactiva el proceso de montaje y conexión de sus sistemas."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La aplicación transforma una actividad técnica en una experiencia visual y participativa, facilitando el aprendizaje mediante la experimentación directa."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Aplicación educativa / Simulación interactiva"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unity"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Temática: Electromovilidad y ensamblaje de vehículos eléctricos"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Perspectiva: Entorno tridimensional interactivo"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Mecánica principal: Selección, ordenamiento e instalación de componentes"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Modalidades: Tutorial y evaluación"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Áreas de trabajo: Modelado 3D, texturizado e iluminación"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Participación personal: Desarrollo artístico 3D"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Objetivo: Aprendizaje práctico del montaje y conexión de sistemas de un vehículo eléctrico"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "EXPERIENCIA INTERACTIVA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La aplicación presenta ejercicios de ensamblaje en los que el usuario identifica los componentes de un vehículo eléctrico y los coloca en el orden y la posición adecuados. El siguiente video muestra el funcionamiento general de esta experiencia educativa."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "Electromovilidad/electromovilidad_video.png",
+      "url": "https://vimeo.com/1242098773"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "MONTAJE DE COMPONENTES"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Electromovilidad/electromovilidad_montaje.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "RESULTADO DEL EJERCICIO"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Electromovilidad/electromovilidad_resultado.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PARTICIPACIÓN EN EL DESARROLLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Mi participación en el Curso Interactivo de Electromovilidad estuvo centrada en la creación y preparación de los recursos visuales tridimensionales, incluyendo el modelado de componentes, la elaboración de texturas y la iluminación de los escenarios."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Este trabajo contribuyó a representar visualmente los elementos del vehículo y facilitar su identificación durante los ejercicios interactivos, integrando los recursos artísticos en una experiencia educativa desarrollada en Unity."
+    }
+  ]
+}
+
