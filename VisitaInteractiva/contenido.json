@@ -1,1 +1,108 @@
 
+{
+  "titulo": "Visita Arquitectónica",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "VisitaInteractiva/visita_arquitectonica_portada.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Visita Arquitectónica es una aplicación interactiva desarrollada en Unreal Engine que permite explorar una vivienda antes de que esta haya sido construida."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "A partir de planos arquitectónicos y un levantamiento tridimensional, se recrea digitalmente el proyecto terminado, permitiendo al usuario recorrer libremente sus espacios interiores y exteriores e interactuar con determinados elementos del entorno."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Esta experiencia ofrece a potenciales compradores una representación inmersiva de la propiedad, facilitando la comprensión de sus dimensiones, distribución y características, y convirtiéndose en una herramienta de presentación y promoción para proyectos inmobiliarios."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Visualización arquitectónica / Aplicación comercial interactiva"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unreal Engine"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Perspectiva: Primera persona 3D"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Fuente de desarrollo: Planos arquitectónicos y levantamiento tridimensional"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Funcionalidades: Recorrido libre, exploración de interiores y exteriores e interacción con elementos del entorno"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Aplicación: Presentación y promoción de proyectos inmobiliarios antes de su construcción"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "RECORRIDO INTERACTIVO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El siguiente video muestra la experiencia de navegación por la vivienda virtual, permitiendo apreciar la arquitectura, los materiales, la iluminación y las posibilidades de exploración del proyecto."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "VisitaInteractiva/visita_arquitectonica_exterior.jpg",
+      "url": "https://vimeo.com/1242111075"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "VISUALIZACIÓN ARQUITECTÓNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La recreación tridimensional permite presentar diferentes perspectivas de la vivienda y apreciar la relación entre su arquitectura, los materiales y los espacios que conforman el proyecto."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "EXTERIOR DE LA VIVIENDA"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "VisitaInteractiva/visita_arquitectonica_exterior.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ESPACIOS INTERIORES"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "VisitaInteractiva/visita_arquitectonica_interior.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "INTERACCIÓN CON EL ENTORNO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Además del desplazamiento libre, la experiencia incorpora interacciones con elementos de la vivienda, como la apertura de puertas, acercando la presentación arquitectónica al funcionamiento de una aplicación interactiva."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "VisitaInteractiva/visita_arquitectonica_interaccion.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "VISUALIZACIÓN COMO HERRAMIENTA COMERCIAL"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Visita Arquitectónica demuestra cómo los entornos tridimensionales en tiempo real pueden utilizarse para presentar proyectos inmobiliarios antes de su construcción. Al permitir que el usuario explore los espacios por sí mismo, la aplicación ofrece una alternativa inmersiva a los planos y las imágenes tradicionales, ayudando a comunicar las características de una propiedad y despertar el interés de potenciales compradores."
+    }
+  ]
+}
+
