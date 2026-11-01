@@ -1,1 +1,120 @@
 
+{
+  "titulo": "Nodo 3D",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Nodo3D/nodo3d_portada.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Nodo 3D es una plataforma de negocios interactiva desarrollada en Unity, que recrea la experiencia de una feria comercial dentro de un entorno virtual tridimensional."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Los usuarios pueden crear y personalizar su avatar para recorrer los diferentes escenarios, visitar stands previamente alquilados por empresas y conocer sus productos y servicios."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Cada espacio comercial permite acceder a la información proporcionada por la empresa o interactuar directamente con su representante mediante un avatar, convirtiendo la plataforma en un punto de encuentro entre negocios y visitantes."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Plataforma de negocios / Feria virtual interactiva"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unity"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Perspectiva: Tercera persona 3D"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Entorno: Multijugador con avatares personalizables"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Funciones: Stands comerciales, salas de reuniones privadas, chat, comunicación por audio y salas de exposición con video en streaming"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Participación personal: Modelado 3D, texturizado, iluminación y montaje en Unity"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Modalidad: Desarrollo colaborativo"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PRESENTACIÓN DE LA PLATAFORMA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El siguiente video presenta un recorrido por Nodo 3D y permite conocer sus espacios virtuales, su entorno comercial y algunas de las posibilidades de interacción que ofrece la plataforma."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "Nodo3D/nodo3d_video.png",
+      "url": "https://vimeo.com/1242098772"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FUNCIONALIDADES DE NODO 3D"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Nodo 3D ofrece un entorno virtual diseñado para facilitar las relaciones comerciales y la interacción entre empresas y visitantes."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Además de recorrer los stands de una feria de negocios, los usuarios pueden acceder a salas de reuniones privadas, comunicarse mediante chat de texto o audio y participar en espacios de exposición equipados con reproducción de video en streaming."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La plataforma incorpora un sistema de personalización de avatares y un mapa interactivo que facilita la orientación y el desplazamiento entre los diferentes sectores de la feria."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PERSONALIZACIÓN DE AVATARES"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Nodo3D/nodo3d_editor_avatares.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ESPACIOS DE EXPOSICIÓN"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Nodo3D/nodo3d_sala_exposiciones.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "MAPA INTERACTIVO"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Nodo3D/nodo3d_mapa_interactivo.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PARTICIPACIÓN EN EL DESARROLLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Mi participación en Nodo 3D estuvo centrada en la producción artística tridimensional, trabajando en el modelado y texturizado de personajes y elementos de los escenarios, así como en la iluminación y el montaje de los entornos dentro de Unity."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Este trabajo permitió integrar los diferentes recursos visuales en una plataforma interactiva, contribuyendo a la construcción de espacios virtuales coherentes y funcionales para la experiencia de los usuarios."
+    }
+  ]
+}
+
