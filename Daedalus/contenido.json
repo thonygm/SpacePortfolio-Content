@@ -59,6 +59,10 @@
       "contenido": "Estado: Prototipo funcional / En desarrollo"
     },
     {
+      "tipo": "imagen",
+      "archivo": "Daedalus/daedalus_planta_inferior.png"
+    },
+    {
       "tipo": "texto",
       "contenido": "DIRECCIÓN ARTÍSTICA"
     },
