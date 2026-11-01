@@ -171,6 +171,22 @@
       "tipo": "enlace",
       "archivo": "Daedalus/daedalus_axis_video.png",
       "url": "https://vimeo.com/1241592950"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DESARROLLO Y VISIÓN DEL PROYECTO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Daedalus: Arcane Odyssey representa la integración de diferentes disciplinas creativas y técnicas en un mismo proyecto, desde el diseño de mecánicas y sistemas de gameplay hasta la creación de personajes, escenarios y animaciones."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "A través de su desarrollo se han explorado distintas soluciones para construir una experiencia de acción y aventura con identidad propia, utilizando la alquimia como eje central de la jugabilidad y una dirección artística 3D estilizada como base de su universo visual."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Aunque continúa en desarrollo, Daedalus constituye uno de mis proyectos más ambiciosos y un espacio de experimentación donde convergen el diseño de videojuegos, la programación visual y la creación artística."
     }
   ]
 }
