@@ -4,7 +4,7 @@
   "secciones": [
     {
       "tipo": "imagen",
-      "archivo": "Daedalus/daedalus_portada.png"
+      "archivo": "Daedalus/Daedalus_Portada.png"
     },
     {
       "tipo": "texto",
@@ -106,6 +106,71 @@
       "tipo": "enlace",
       "archivo": "Daedalus/daedalus_gameplay.png",
       "url": "https://vimeo.com/1241852834"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DISEÑO DE PERSONAJES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El desarrollo de Daedalus: Arcane Odyssey incluye la creación de un elenco de personajes con identidades visuales propias, combinando proporciones estilizadas, vestuario característico y elementos de fantasía y tecnología."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El proceso de producción abarca el modelado tridimensional, la preparación de materiales y texturas, y la adaptación de los personajes para su utilización en entornos interactivos y secuencias animadas."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Los siguientes modelos muestran diferentes aproximaciones al diseño de personajes dentro del universo de Daedalus."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DAEDALUS"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Daedalus/daedalus_character.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "AXIS"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Daedalus/axis_character.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "CECIL"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Daedalus/cecil_character.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ISIS Y NEFTIS"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Daedalus/isisyneftis_character.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ANIMACIÓN DE PERSONAJES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El trabajo de personajes también contempla su preparación para la animación y la integración de movimiento en entornos tridimensionales."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El siguiente video presenta una prueba de movimiento de Axis, mostrando el personaje animado y permitiendo apreciar su diseño desde diferentes perspectivas."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "Daedalus/daedalus_axis_video.png",
+      "url": "https://vimeo.com/1241592950"
     }
   ]
 }
