@@ -60,20 +60,11 @@
     },
     {
       "tipo": "texto",
-      "contenido": "EXPERIENCIA INTERACTIVA"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "La aplicación presenta ejercicios de ensamblaje en los que el usuario identifica los componentes de un vehículo eléctrico y los coloca en el orden y la posición adecuados. El siguiente video muestra el funcionamiento general de esta experiencia educativa."
-    },
-    {
-      "tipo": "enlace",
-      "archivo": "Electromovilidad/electromovilidad_video.png",
-      "url": "https://vimeo.com/1242098773"
-    },
-    {
-      "tipo": "texto",
       "contenido": "MONTAJE DE COMPONENTES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Durante los ejercicios, el usuario selecciona los componentes del vehículo, identifica el orden correcto de instalación y los coloca en sus posiciones correspondientes."
     },
     {
       "tipo": "imagen",
@@ -82,6 +73,10 @@
     {
       "tipo": "texto",
       "contenido": "RESULTADO DEL EJERCICIO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El ensamblaje progresivo permite visualizar la integración de los diferentes sistemas del vehículo hasta completar el ejercicio."
     },
     {
       "tipo": "imagen",
@@ -98,7 +93,19 @@
     {
       "tipo": "texto",
       "contenido": "Este trabajo contribuyó a representar visualmente los elementos del vehículo y facilitar su identificación durante los ejercicios interactivos, integrando los recursos artísticos en una experiencia educativa desarrollada en Unity."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "EXPERIENCIA INTERACTIVA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El siguiente video muestra el funcionamiento general de esta experiencia educativa, incluyendo la selección, instalación y ensamblaje de componentes del vehículo eléctrico."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "Electromovilidad/electromovilidad_video.png",
+      "url": "https://vimeo.com/1242098773"
     }
   ]
 }
-
