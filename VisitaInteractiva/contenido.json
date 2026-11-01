@@ -48,28 +48,11 @@
     },
     {
       "tipo": "texto",
-      "contenido": "RECORRIDO INTERACTIVO"
+      "contenido": "VISUALIZACIÓN EXTERIOR"
     },
     {
       "tipo": "texto",
-      "contenido": "El siguiente video muestra la experiencia de navegación por la vivienda virtual, permitiendo apreciar la arquitectura, los materiales, la iluminación y las posibilidades de exploración del proyecto."
-    },
-    {
-      "tipo": "enlace",
-      "archivo": "VisitaInteractiva/visita_arquitectonica_exterior.jpg",
-      "url": "https://vimeo.com/1242111075"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "VISUALIZACIÓN ARQUITECTÓNICA"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "La recreación tridimensional permite presentar diferentes perspectivas de la vivienda y apreciar la relación entre su arquitectura, los materiales y los espacios que conforman el proyecto."
-    },
-    {
-      "tipo": "texto",
-      "contenido": "EXTERIOR DE LA VIVIENDA"
+      "contenido": "La recreación tridimensional permite visualizar la arquitectura exterior de la vivienda, sus materiales, accesos y espacios ajardinados, ofreciendo una perspectiva del resultado previsto antes de iniciar la construcción."
     },
     {
       "tipo": "imagen",
@@ -77,7 +60,11 @@
     },
     {
       "tipo": "texto",
-      "contenido": "ESPACIOS INTERIORES"
+      "contenido": "EXPLORACIÓN DE INTERIORES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El recorrido en primera persona permite desplazarse por los ambientes interiores y apreciar su distribución, dimensiones, acabados e iluminación desde la perspectiva de quien habitaría la vivienda."
     },
     {
       "tipo": "imagen",
@@ -89,7 +76,7 @@
     },
     {
       "tipo": "texto",
-      "contenido": "Además del desplazamiento libre, la experiencia incorpora interacciones con elementos de la vivienda, como la apertura de puertas, acercando la presentación arquitectónica al funcionamiento de una aplicación interactiva."
+      "contenido": "Además de recorrer los espacios, el usuario puede interactuar con determinados elementos de la vivienda, como las puertas, haciendo que la visita resulte más natural y participativa."
     },
     {
       "tipo": "imagen",
@@ -101,8 +88,20 @@
     },
     {
       "tipo": "texto",
-      "contenido": "Visita Arquitectónica demuestra cómo los entornos tridimensionales en tiempo real pueden utilizarse para presentar proyectos inmobiliarios antes de su construcción. Al permitir que el usuario explore los espacios por sí mismo, la aplicación ofrece una alternativa inmersiva a los planos y las imágenes tradicionales, ayudando a comunicar las características de una propiedad y despertar el interés de potenciales compradores."
+      "contenido": "La posibilidad de recorrer una vivienda antes de su construcción transforma los planos arquitectónicos en una experiencia comprensible para los potenciales compradores. Esta presentación inmersiva facilita la comunicación del proyecto y ayuda a generar interés comercial en una propiedad todavía no construida."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "VIDEO DEL RECORRIDO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El siguiente video muestra el funcionamiento de Visita Arquitectónica, incluyendo el recorrido por la vivienda y las posibilidades de interacción con sus espacios."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "VisitaInteractiva/visita_arquitectonica_exterior.jpg",
+      "url": "https://vimeo.com/1242111075"
     }
   ]
 }
-
