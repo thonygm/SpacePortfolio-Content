@@ -81,6 +81,31 @@
     {
       "tipo": "imagen",
       "archivo": "Daedalus/daedalus.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "GAMEPLAY Y SISTEMA DE ALQUIMIA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La jugabilidad de Daedalus: Arcane Odyssey gira en torno a un sistema de alquimia que permite combinar diferentes objetos y materiales para crear nuevos ítems con propiedades y funcionalidades específicas."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estos elementos se convierten en herramientas fundamentales para la aventura, permitiendo al jugador resolver puzles, superar obstáculos y desarrollar estrategias para enfrentarse a diferentes enemigos."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Este sistema busca integrar la experimentación y el descubrimiento directamente en la jugabilidad, haciendo que la creación y utilización de objetos forme parte esencial de la exploración y el combate."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El siguiente video presenta el estado actual del proyecto, mostrando algunas de las mecánicas y sistemas desarrollados mediante Blueprints en Unreal Engine."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "Daedalus/daedalus.jpg",
+      "url": "https://vimeo.com/1241852834"
     }
   ]
 }
