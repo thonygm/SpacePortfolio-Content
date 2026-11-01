@@ -52,19 +52,6 @@
     },
     {
       "tipo": "texto",
-      "contenido": "PRESENTACIÓN DE LA PLATAFORMA"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "El siguiente video presenta un recorrido por Nodo 3D y permite conocer sus espacios virtuales, su entorno comercial y algunas de las posibilidades de interacción que ofrece la plataforma."
-    },
-    {
-      "tipo": "enlace",
-      "archivo": "Nodo3D/nodo3d_video.png",
-      "url": "https://vimeo.com/1242098772"
-    },
-    {
-      "tipo": "texto",
       "contenido": "FUNCIONALIDADES DE NODO 3D"
     },
     {
@@ -77,11 +64,11 @@
     },
     {
       "tipo": "texto",
-      "contenido": "La plataforma incorpora un sistema de personalización de avatares y un mapa interactivo que facilita la orientación y el desplazamiento entre los diferentes sectores de la feria."
+      "contenido": "PERSONALIZACIÓN DE AVATARES"
     },
     {
       "tipo": "texto",
-      "contenido": "PERSONALIZACIÓN DE AVATARES"
+      "contenido": "Cada visitante puede personalizar su avatar para participar en la feria virtual y desplazarse por los diferentes espacios de la plataforma."
     },
     {
       "tipo": "imagen",
@@ -92,12 +79,20 @@
       "contenido": "ESPACIOS DE EXPOSICIÓN"
     },
     {
+      "tipo": "texto",
+      "contenido": "Las empresas pueden presentar sus productos y servicios en espacios virtuales, mientras los visitantes acceden a información y contenidos audiovisuales."
+    },
+    {
       "tipo": "imagen",
       "archivo": "Nodo3D/nodo3d_sala_exposiciones.png"
     },
     {
       "tipo": "texto",
       "contenido": "MAPA INTERACTIVO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La plataforma incorpora un mapa interactivo que facilita la orientación y el desplazamiento entre los diferentes sectores de la feria."
     },
     {
       "tipo": "imagen",
@@ -114,7 +109,19 @@
     {
       "tipo": "texto",
       "contenido": "Este trabajo permitió integrar los diferentes recursos visuales en una plataforma interactiva, contribuyendo a la construcción de espacios virtuales coherentes y funcionales para la experiencia de los usuarios."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PRESENTACIÓN DE LA PLATAFORMA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El siguiente video presenta un recorrido por Nodo 3D y permite conocer sus espacios virtuales, su entorno comercial y algunas de las posibilidades de interacción que ofrece la plataforma."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "Nodo3D/nodo3d_video.png",
+      "url": "https://vimeo.com/1242098772"
     }
   ]
 }
-
