@@ -1,6 +1,6 @@
 {
-    "titulo": "Ultima",
-    "bloques": [
+  "titulo": "Ultima",
+  "secciones": [
         {
             "tipo": "titulo",
             "texto": "ULTIMA"
