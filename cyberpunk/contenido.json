@@ -3,6 +3,11 @@
   "titulo": "Cyberpunk",
   "secciones": [
     {
+      "tipo": "enlace",
+      "archivo": "cyberpunk/cyberpunk_video.jpg",
+      "url": "https://vimeo.com/1242187408"
+    },
+    {
       "tipo": "texto",
       "contenido": "CYBERPUNK"
     },
@@ -37,20 +42,6 @@
     {
       "tipo": "texto",
       "contenido": "Presentación: Video"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "VIDEO DE LA ESCENA"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "La siguiente secuencia muestra el resultado audiovisual del proyecto, explorando la combinación de herramientas de inteligencia artificial con Unreal Engine."
-    },
-    {
-      "tipo": "enlace",
-      "archivo": "cyberpunk/cyberpunk_video.jpg",
-      "url": "https://vimeo.com/1242187408"
     }
   ]
 }
-
