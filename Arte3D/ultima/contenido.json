@@ -48,7 +48,7 @@
     },
     {
       "tipo": "texto",
-      "contenido": "Motor de renderizado: V-Ray"
+      "contenido": "Renderizado: V-Ray"
     }
   ]
 }
