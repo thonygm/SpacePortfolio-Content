@@ -1,1 +1,63 @@
 
+{
+  "titulo": "Bunny Fortuna",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/BunnyFortuna/bunny001.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "BUNNY FORTUNA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Bunny Fortuna es una propiedad intelectual original protagonizada por una coneja pirata y un universo de personajes fantásticos. El proyecto fue concebido como una marca de entretenimiento con potencial para expandirse a ilustraciones, productos, artículos coleccionables y experiencias interactivas."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/BunnyFortuna/bunny002.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ILUSTRACIÓN Y DISEÑO DE PERSONAJES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Todos los personajes y elementos gráficos fueron creados originalmente para este universo. Las ilustraciones se realizaron a mano alzada mediante tableta digital en Adobe Photoshop, trabajando la composición, el color, los volúmenes y la iluminación para dar personalidad a cada escena."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/BunnyFortuna/bunny003.jpg"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/BunnyFortuna/perrodelwuk.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Ilustración digital / IP original"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Herramientas: Adobe Photoshop y tableta digital"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Técnica: Ilustración digital a mano alzada"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Creación: Personajes, escenarios y elementos originales"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Concepto: Universo de aventuras piratas y personajes fantásticos"
+    }
+  ]
+}
+
