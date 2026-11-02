@@ -1,4 +1,61 @@
 {
   "titulo": "El Salón del Tiempo",
-  "secciones": []
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Arte3D/SalonDelTiempo/salon_del_tiempo_render.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "EL SALÓN DEL TIEMPO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Una ilustración tridimensional de fantasía arquitectónica que representa un antiguo salón dominado por un monumental reloj ornamental, rodeado de estructuras deterioradas, mecanismos y elementos decorativos de inspiración gótica."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La escena fue modelada íntegramente en Autodesk 3ds Max, prestando especial atención a los detalles arquitectónicos, las estructuras ornamentales y la composición del entorno."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El trabajo de iluminación y renderizado con V-Ray busca transmitir una atmósfera de misterio y abandono, aprovechando la entrada de luz natural para resaltar las formas, los materiales y la profundidad del escenario."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Ilustración 3D / Entorno arquitectónico"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Software: Autodesk 3ds Max"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Renderizado: V-Ray"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Modelado: 100 % original"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estilo: Fantasía arquitectónica"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Presentación: Render estático"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PARTICIPACIÓN EN EL DESARROLLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Proyecto personal desarrollado íntegramente en el apartado de modelado tridimensional, incluyendo arquitectura, reloj monumental, mecanismos, elementos decorativos y detalles del escenario."
+    }
+  ]
 }
