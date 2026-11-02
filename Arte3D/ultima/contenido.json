@@ -1,1 +1,34 @@
-
+{
+    "titulo": "Ultima",
+    "bloques": [
+        {
+            "tipo": "titulo",
+            "texto": "ULTIMA"
+        },
+        {
+            "tipo": "imagen",
+            "ruta": "ultima002.jpg"
+        },
+        {
+            "tipo": "texto",
+            "texto": "Fan art de Ultima, personaje de Final Fantasy XII. La escena fue montada utilizando Poser y 3DMax, con render final en V-Ray."
+        },
+        {
+            "tipo": "ficha",
+            "items": [
+                "Tipo: Fan art 3D",
+                "Inspiración: Final Fantasy XII",
+                "Herramientas: Poser y 3DMax",
+                "Render: V-Ray"
+            ]
+        },
+        {
+            "tipo": "imagen",
+            "ruta": "ultima001.jpg"
+        },
+        {
+            "tipo": "imagen",
+            "ruta": "ultima002.jpg"
+        }
+    ]
+}
