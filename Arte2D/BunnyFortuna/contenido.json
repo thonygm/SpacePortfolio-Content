@@ -4,7 +4,7 @@
   "secciones": [
     {
       "tipo": "imagen",
-      "archivo": "Arte2D/BunnyFortuna/bunny001.jpg"
+      "archivo": "Arte2D/BunnyFortuna/bunny003.jpg"
     },
     {
       "tipo": "texto",
@@ -28,7 +28,7 @@
     },
     {
       "tipo": "imagen",
-      "archivo": "Arte2D/BunnyFortuna/bunny003.jpg"
+      "archivo": "Arte2D/BunnyFortuna/bunny001.jpg"
     },
     {
       "tipo": "imagen",
