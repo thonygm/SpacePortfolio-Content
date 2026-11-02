@@ -1,3 +1,5 @@
-PROYECTOS_ARTE2D = [
-    "Arte de Panik N Ketchup"
-]
+
+{
+  "titulo": "Arte de Panik N Ketchup",
+  "secciones": []
+}
