@@ -1,1 +1,44 @@
 
+{
+  "titulo": "Bosque y Templo",
+  "secciones": [
+    {
+      "tipo": "enlace",
+      "archivo": "Arte3D/bosqueytemplo/bosque_templo_video.jpg",
+      "url": "https://vimeo.com/1242188963"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "BOSQUE Y TEMPLO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Una escena tridimensional desarrollada íntegramente en Unreal Engine que recrea un antiguo templo rodeado de vegetación. El entorno combina arquitectura clásica, esculturas y elementos naturales para construir una atmósfera de abandono y serenidad."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La iluminación natural, los materiales y la composición de los espacios buscan transmitir la sensación de un lugar olvidado que ha sido reclamado lentamente por la naturaleza."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Entorno 3D / Cinemática ambiental"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unreal Engine"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Escenario: Templo clásico y entorno natural"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Presentación: Recorrido audiovisual"
+    }
+  ]
+}
+
