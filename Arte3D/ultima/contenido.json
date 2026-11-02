@@ -7,7 +7,7 @@
         },
         {
             "tipo": "imagen",
-            "ruta": "ultima002.jpg"
+            "ruta": "Arte3D/ultima/ultima001.jpg"
         },
         {
             "tipo": "texto",
@@ -21,10 +21,6 @@
                 "Herramientas: Poser y 3DMax",
                 "Render: V-Ray"
             ]
-        },
-        {
-            "tipo": "imagen",
-            "ruta": "ultima001.jpg"
         },
         {
             "tipo": "imagen",
