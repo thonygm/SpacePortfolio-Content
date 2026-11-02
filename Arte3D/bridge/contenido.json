@@ -1,3 +1,4 @@
+
 {
   "titulo": "Puente Colgante",
   "secciones": [
@@ -7,11 +8,15 @@
     },
     {
       "tipo": "texto",
-      "contenido": "Puente Colgante es una visualización arquitectónica y artística centrada en un puente suspendido de gran escala, representado con una atmósfera urbana y un tratamiento visual monocromático."
+      "contenido": "PUENTE COLGANTE"
     },
     {
       "tipo": "texto",
-      "contenido": "La imagen busca resaltar la silueta estructural del puente, su ritmo visual y su presencia dentro del entorno, combinando composición, profundidad y contraste para enfatizar su carácter monumental."
+      "contenido": "Una visualización tridimensional de un puente colgante de gran escala, inspirado en las grandes estructuras suspendidas de la arquitectura urbana. La composición destaca la complejidad de sus torres, cables y elementos estructurales."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El tratamiento monocromático, la iluminación y la profundidad de campo aportan una atmósfera cinematográfica, resaltando la monumentalidad del puente y su integración con el paisaje urbano."
     },
     {
       "tipo": "texto",
@@ -19,39 +24,23 @@
     },
     {
       "tipo": "texto",
-      "contenido": "Tipo: Visualización 3D / Ilustración arquitectónica"
+      "contenido": "Tipo: Ilustración 3D / Visualización arquitectónica"
     },
     {
       "tipo": "texto",
-      "contenido": "Software: 3ds Max"
+      "contenido": "Software: Autodesk 3ds Max"
     },
     {
       "tipo": "texto",
-      "contenido": "Render: V-Ray"
+      "contenido": "Renderizado: V-Ray"
     },
     {
       "tipo": "texto",
-      "contenido": "Temática: Puente colgante / entorno urbano"
+      "contenido": "Temática: Arquitectura e ingeniería estructural"
     },
     {
       "tipo": "texto",
-      "contenido": "VISUALIZACIÓN DEL PROYECTO"
-    },
-    {
-      "tipo": "imagen",
-      "archivo": "Arte3D/bridge/bridge.jpg"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "El proyecto fue desarrollado como una pieza de representación tridimensional, enfocada en mostrar tanto la forma general del puente como su presencia escénica dentro de la composición."
-    },
-    {
-      "tipo": "texto",
-      "contenido": "PARTICIPACIÓN EN EL PROYECTO"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "Trabajo realizado en 3ds Max y renderizado con V-Ray."
+      "contenido": "Presentación: Render estático"
     }
   ]
 }
