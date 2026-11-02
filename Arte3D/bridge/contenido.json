@@ -1,1 +1,57 @@
-
+{
+  "titulo": "Puente Colgante",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Arte3D/bridge/bridge.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Puente Colgante es una visualización arquitectónica y artística centrada en un puente suspendido de gran escala, representado con una atmósfera urbana y un tratamiento visual monocromático."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La imagen busca resaltar la silueta estructural del puente, su ritmo visual y su presencia dentro del entorno, combinando composición, profundidad y contraste para enfatizar su carácter monumental."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Visualización 3D / Ilustración arquitectónica"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Software: 3ds Max"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Render: V-Ray"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Temática: Puente colgante / entorno urbano"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "VISUALIZACIÓN DEL PROYECTO"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte3D/bridge/bridge.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El proyecto fue desarrollado como una pieza de representación tridimensional, enfocada en mostrar tanto la forma general del puente como su presencia escénica dentro de la composición."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "PARTICIPACIÓN EN EL PROYECTO"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Trabajo realizado en 3ds Max y renderizado con V-Ray."
+    }
+  ]
+}
