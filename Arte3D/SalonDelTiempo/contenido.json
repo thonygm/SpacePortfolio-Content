@@ -1,9 +1,10 @@
+
 {
   "titulo": "El Salón del Tiempo",
   "secciones": [
     {
       "tipo": "imagen",
-      "archivo": "Arte3D/SalonDelTiempo/salon_del_tiempo_render.jpg"
+      "archivo": "Arte3D/SalonDelTiempo/salon.jpg"
     },
     {
       "tipo": "texto",
@@ -48,14 +49,6 @@
     {
       "tipo": "texto",
       "contenido": "Presentación: Render estático"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "PARTICIPACIÓN EN EL DESARROLLO"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "Proyecto personal desarrollado íntegramente en el apartado de modelado tridimensional, incluyendo arquitectura, reloj monumental, mecanismos, elementos decorativos y detalles del escenario."
     }
   ]
 }
