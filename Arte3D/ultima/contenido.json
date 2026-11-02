@@ -12,11 +12,11 @@
     },
     {
       "tipo": "texto",
-      "contenido": "Fan art tridimensional de Ultima, personaje de Final Fantasy XII. La composición destaca sus alas monumentales, elementos ornamentales, vestuario y estructuras mecánicas, combinando fantasía y tecnología en un diseño de gran complejidad visual."
+      "contenido": "Fan art tridimensional de Ultima, personaje de Final Fantasy XII. La composición destaca sus alas monumentales, vestuario ornamental y estructuras mecánicas, combinando elementos de fantasía y tecnología."
     },
     {
       "tipo": "texto",
-      "contenido": "El proyecto combina el trabajo realizado con Poser y el montaje de la escena en Autodesk 3ds Max, utilizando V-Ray para el renderizado final."
+      "contenido": "El proyecto combina el trabajo con Poser y el montaje de la escena en Autodesk 3ds Max, utilizando V-Ray para el renderizado final."
     },
     {
       "tipo": "texto",
@@ -49,10 +49,6 @@
     {
       "tipo": "texto",
       "contenido": "Motor de renderizado: V-Ray"
-    },
-    {
-      "tipo": "texto",
-      "contenido": "Presentación: Dos renders estáticos"
     }
   ]
 }
