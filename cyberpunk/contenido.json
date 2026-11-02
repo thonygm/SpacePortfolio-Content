@@ -1,1 +1,56 @@
 
+{
+  "titulo": "Cyberpunk",
+  "secciones": [
+    {
+      "tipo": "texto",
+      "contenido": "CYBERPUNK"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Una pieza audiovisual de ciencia ficción que combina recursos generados mediante inteligencia artificial con el entorno de producción tridimensional de Unreal Engine."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La escena presenta una estética cyberpunk, con tecnología futurista, iluminación de tonos fríos y elementos visuales digitales que contribuyen a construir una atmósfera de ciencia ficción."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Cinemática 3D / Experimento audiovisual"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unreal Engine"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Recursos de producción: Inteligencia artificial y herramientas 3D"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estilo: Cyberpunk / Ciencia ficción"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Presentación: Video"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "VIDEO DE LA ESCENA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La siguiente secuencia muestra el resultado audiovisual del proyecto, explorando la combinación de herramientas de inteligencia artificial con Unreal Engine."
+    },
+    {
+      "tipo": "enlace",
+      "archivo": "cyberpunk/cyberpunk_video.jpg",
+      "url": "https://vimeo.com/1242187408"
+    }
+  ]
+}
+
