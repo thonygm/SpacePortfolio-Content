@@ -1,1 +1,47 @@
 
+{
+  "titulo": "Catedral",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Arte3D/Catedral/catedral.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "CATEDRAL"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Una composición arquitectónica tridimensional de inspiración gótica, protagonizada por una catedral monumental rodeada de vegetación y agua. La escena combina torres, arcos, ventanales ornamentales y una compleja estructura de cubiertas."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "La iluminación cálida del atardecer y el paisaje natural contribuyen a crear una atmósfera fantástica, destacando la escala y los detalles de la construcción."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Arte 3D / Visualización arquitectónica"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Software: Autodesk 3ds Max"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor de renderizado: V-Ray"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Estilo: Arquitectura gótica fantástica"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Presentación: Render estático"
+    }
+  ]
+}
+
