@@ -1,30 +1,58 @@
+
 {
   "titulo": "Ultima",
   "secciones": [
-        {
-            "tipo": "titulo",
-            "texto": "ULTIMA"
-        },
-        {
-            "tipo": "imagen",
-            "ruta": "Arte3D/ultima/ultima001.jpg"
-        },
-        {
-            "tipo": "texto",
-            "texto": "Fan art de Ultima, personaje de Final Fantasy XII. La escena fue montada utilizando Poser y 3DMax, con render final en V-Ray."
-        },
-        {
-            "tipo": "ficha",
-            "items": [
-                "Tipo: Fan art 3D",
-                "Inspiración: Final Fantasy XII",
-                "Herramientas: Poser y 3DMax",
-                "Render: V-Ray"
-            ]
-        },
-        {
-            "tipo": "imagen",
-            "ruta": "Arte3D/ultima/ultima002.jpg"
-        }
-    ]
+    {
+      "tipo": "imagen",
+      "archivo": "Arte3D/ultima/ultima001.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ULTIMA — FINAL FANTASY XII"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Fan art tridimensional de Ultima, personaje de Final Fantasy XII. La composición destaca sus alas monumentales, elementos ornamentales, vestuario y estructuras mecánicas, combinando fantasía y tecnología en un diseño de gran complejidad visual."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El proyecto combina el trabajo realizado con Poser y el montaje de la escena en Autodesk 3ds Max, utilizando V-Ray para el renderizado final."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DETALLES DEL PERSONAJE"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte3D/ultima/ultima002.jpg"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Fan art 3D / Personaje"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Obra de referencia: Final Fantasy XII"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Herramientas: Poser y Autodesk 3ds Max"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Montaje de escena: Autodesk 3ds Max"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor de renderizado: V-Ray"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Presentación: Dos renders estáticos"
+    }
+  ]
 }
