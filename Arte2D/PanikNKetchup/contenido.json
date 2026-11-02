@@ -1,5 +1,138 @@
 
 {
-  "titulo": "Arte de Panik N Ketchup",
-  "secciones": []
+  "titulo": "Panik N Ketchup",
+  "secciones": [
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Vector.PNG"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "ILUSTRACIÓN VECTORIAL"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Todo el arte gráfico de Panik N Ketchup fue creado mediante ilustración vectorial, incluyendo personajes, ingredientes, herramientas e identidad visual. El estilo combina colores intensos, siluetas expresivas y una estética inspirada en el arte urbano."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Titulo.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DISEÑO DE PERSONAJES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Los personajes fueron diseñados con personalidades visuales diferenciadas, expresiones caricaturescas y formas reconocibles. La siguiente ilustración reúne a Nikki, Dusty y un personaje que continúa en fase conceptual."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/personajes.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "NIKKI FLAME"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Nikki.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "DUSTY DIGGER"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Dusty.PNG"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "INGREDIENTES"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Los ingredientes se diseñaron como recursos gráficos individuales, priorizando su legibilidad y reconocimiento inmediato durante el juego."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Bread.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Carne.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Cheese.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Lechuga.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Huevo.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "HERRAMIENTAS DE COCINA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Esta colección de ilustraciones corresponde a las herramientas de cocina que el jugador puede obtener como recompensas. Cada objeto mantiene una identidad gráfica coherente con el resto del juego."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Cuchillo.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Espatula.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Tenzas.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Tabladepicar.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Prensa de hamburguesas.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Termometro.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Temporizador.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Escurridor.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Mazo.png"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/HotGlove.png"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "IDENTIDAD VISUAL"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El diseño de los personajes y los recursos gráficos forma parte de una dirección artística unificada, desarrollada para darle a Panik N Ketchup una personalidad visual propia."
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Arte2D/PanikNKetchup/Icono-01.png"
+    }
+  ]
 }
