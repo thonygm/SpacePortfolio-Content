@@ -4,7 +4,7 @@
   "secciones": [
     {
       "tipo": "imagen",
-      "archivo": "Arte3D/Catedral/catedral.jpg"
+      "archivo": "Arte3D/catedral/catedral.jpg"
     },
     {
       "tipo": "texto",
