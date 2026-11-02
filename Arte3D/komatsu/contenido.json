@@ -1,1 +1,52 @@
 
+{
+  "titulo": "Construcción Komatsu",
+  "secciones": [
+    {
+      "tipo": "enlace",
+      "archivo": "Arte3D/komatsu/komatsu_video.jpg",
+      "url": "https://vimeo.com/1242198932"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "CONSTRUCCIÓN KOMATSU"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Entorno tridimensional desarrollado en Unreal Engine, ambientado en una zona de trabajo minero dominada por un gigantesco camión de extracción. La escena combina maquinaria pesada, formaciones rocosas y elementos industriales para recrear un escenario de gran escala."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "El proyecto incorpora modelos 3D propios, efectos ambientales y un sistema de ciclo de día y noche que transforma progresivamente la iluminación y la atmósfera del escenario."
+    },
+    {
+      "tipo": "texto",
+      "contenido": "FICHA TÉCNICA"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Tipo: Entorno 3D / Cinemática ambiental"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Motor: Unreal Engine"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Modelado: Modelos 3D propios"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Iluminación: Ciclo dinámico de día y noche"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Efectos: Ambientación y efectos ambientales"
+    },
+    {
+      "tipo": "texto",
+      "contenido": "Presentación: Video cinematográfico"
+    }
+  ]
+}
+
